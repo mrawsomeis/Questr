@@ -1,4 +1,4 @@
-# Questly 🎯
+# Questr 🎯
 
 Questly is a full-stack web application that provides users with personalized daily side quests to improve their mental, physical, and social well-being.
 
